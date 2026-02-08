@@ -1,1 +1,1 @@
-/ext/Development/UKSFTA-Template/.uksf_tools/tools/manage_mods.py
+../.uksf_tools/tools/manage_mods.py
