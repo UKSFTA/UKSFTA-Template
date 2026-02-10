@@ -2,8 +2,6 @@
 # Format: URL/ID # Tag (Optional)
 # Example: 450814997 # Weekend Ops, Core
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2983546566 # Training Map | Dagger Island
-
 [ignore]
 # List mods to exclude from download/sync below
 https://steamcommunity.com/sharedfiles/filedetails/?id=450814997 # Base | CBA_3
